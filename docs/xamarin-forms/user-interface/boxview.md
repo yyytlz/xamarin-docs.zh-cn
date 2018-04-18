@@ -13,7 +13,7 @@ ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/04/2018
 ---
-# <a name="boxview"></a>字数
+# <a name="boxview"></a>BoxView
 
 [`BoxView`](https://developer.xamarin.com/api/type/Xamarin.Forms.BoxView/) 呈现一个简单的矩形指定的宽度、 高度和颜色。 你可以使用`BoxView`效果，基本图形，并与用户通过触摸进行交互。
 
